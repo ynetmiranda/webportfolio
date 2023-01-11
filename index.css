@@ -17,3 +17,40 @@
 .nav-link{
 	color: white;
 }
+
+/*Main Page*/
+.ynet{
+	color: #FED159ff;
+	font-size: 30px;
+}
+
+.wd{
+	color: #558283ff;
+	font-size: 25px;
+}
+
+.about{
+	font-size: 20px;
+	text-align: justify;
+}
+
+
+/*Contact Page*/
+.contact_me{
+	background-color: #558283ff;
+}
+
+
+/*Tools Page*/
+
+.toggle{
+	margin:16px;
+	background-color: #FED159ff;
+}
+
+.tools{
+	border-color: #558283ff;
+	border-width: 6px;
+	margin: 12px;
+	border-style: groove;
+}
