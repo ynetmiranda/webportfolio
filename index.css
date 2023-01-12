@@ -7,7 +7,6 @@
 
 .navbar{
 	background-color: #558283ff;
-	color: white;
 }
 
 .navbar-brand{
@@ -15,7 +14,14 @@
 }
 
 .nav-link{
-	color: white;
+	color: #FED159ff;
+}
+
+}
+
+.navbar-toggler{
+	border-color: #FED159ff;
+	text-decoration-line: white;
 }
 
 /*Main Page*/
@@ -34,10 +40,20 @@
 	text-align: justify;
 }
 
+.footer{
+	background-color: #558283ff;
+}
+
 
 /*Contact Page*/
 .contact_me{
-	background-color: #558283ff;
+	background-color: #FED159ff;
+	color: #558283ff;
+	padding-top: 5px;
+}
+
+.lmkwyn{
+	color: #558283ff;
 }
 
 
@@ -53,10 +69,18 @@
 	border-width: 6px;
 	margin: 12px;
 	border-style: groove;
+	background-color: snow;
 }
 
 /*Project Page*/
 
 .proj_title{
-	color:#FED159ff;
+	color: #558283ff;
 }
+
+.card{
+	background-color: lightcyan;
+	border-style: groove;
+
+}
+
