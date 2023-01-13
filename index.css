@@ -5,6 +5,7 @@
 	font-family: 'Comfortaa', sans-serif;
 }
 
+
 .navbar{
 	background-color: #558283ff;
 }
@@ -15,8 +16,6 @@
 
 .nav-link{
 	color: #FED159ff;
-}
-
 }
 
 .navbar-toggler{
@@ -44,6 +43,10 @@
 	background-color: #558283ff;
 }
 
+.quote{
+	font-size: 18px;
+}
+
 
 /*Contact Page*/
 .contact_me{
@@ -62,14 +65,10 @@
 .toggle{
 	margin:16px;
 	background-color: #FED159ff;
-}
-
-.tools{
 	border-color: #558283ff;
 	border-width: 6px;
 	margin: 12px;
 	border-style: groove;
-	background-color: snow;
 }
 
 /*Project Page*/
@@ -79,8 +78,12 @@
 }
 
 .card{
-	background-color: lightcyan;
+	background-color: rgba(32, 201, 151, 0.25);
 	border-style: groove;
+}
 
+.slink{
+	color: #FED159ff;
+	text-underline-position: under;
 }
 
